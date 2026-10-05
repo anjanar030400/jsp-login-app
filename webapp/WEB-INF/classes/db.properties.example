@@ -1,0 +1,5 @@
+# Copy this file to db.properties (same folder) and fill in real values.
+# db.properties is excluded from git via .gitignore -- never commit real credentials.
+db.url=jdbc:mysql://localhost:3306/project5_login?useSSL=false&serverTimezone=UTC
+db.user=project5_app
+db.password=CHANGE_ME
